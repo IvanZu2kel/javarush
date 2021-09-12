@@ -1,2 +1,0 @@
-# javarush
-Optional
